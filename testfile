@@ -3,6 +3,6 @@ package com.chakilams;
 public class main {
 
          public static void main( string[] args) {
-               system.out.println( " hi is this git and jenkins are connected :);
+               system.out.println( " hi is this git and jenkins are connected");
                }
 } 
